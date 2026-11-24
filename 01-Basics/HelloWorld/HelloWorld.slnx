@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="../UserInput/UserInput.csproj" Id="9dac5bab-865c-497a-9c18-181bb1a5d5e2" />
+  <Project Path="../VariablesAndDataTypes/VariablesAndDataTypes.csproj" />
   <Project Path="HelloWorld.csproj" />
 </Solution>
