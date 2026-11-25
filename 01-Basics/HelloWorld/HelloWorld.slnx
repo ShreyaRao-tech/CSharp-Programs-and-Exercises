@@ -1,5 +1,6 @@
 <Solution>
-  <Project Path="../UserInput/UserInput.csproj" Id="9dac5bab-865c-497a-9c18-181bb1a5d5e2" />
-  <Project Path="../VariablesAndDataTypes/VariablesAndDataTypes.csproj" />
-  <Project Path="HelloWorld.csproj" />
+  <Project Path="../Type Conversion/04-Type Conversion.csproj" Id="929b3097-adfe-4543-a1ef-953cc831377c" />
+  <Project Path="../UserInput/03-UserInput.csproj" Id="9dac5bab-865c-497a-9c18-181bb1a5d5e2" />
+  <Project Path="../VariablesAndDataTypes/02-VariablesAndDataTypes.csproj" />
+  <Project Path="01-HelloWorld.csproj" />
 </Solution>
